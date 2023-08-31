@@ -10,4 +10,4 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnxfsf&langs_count=20&theme=dark&layout=pie) -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnxfsf&langs_count=20&theme=radical&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnxfsf&langs_count=20&theme=dark&layout=donut)
