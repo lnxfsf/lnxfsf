@@ -25,4 +25,26 @@
 [LXC, and more servers... port forwarding.. stuff](https://dev.to/darty/lxc-and-more-servers-port-forwarding-stuff-3nn2)<br>
 [Rescue "broken" USB](https://dev.to/darty/rescue-broken-usb-1mgc)<br>
 
+----
+<sup><sub>Unnecessary info I recently found out</sub></sup><br>
+<sup><sub>I didn't knew I was on this list. Ok </sub></sup>
+
+
+[Top GitHub Users By Total Contributions in Montenegro](https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/montenegro.md)
+![3](https://github.com/lnxfsf/lnxfsf/assets/99252096/6bdade33-0628-4b96-9832-0155b47c667c)
+![4](https://github.com/lnxfsf/lnxfsf/assets/99252096/b8606706-aef8-40ee-a669-dbb121d3c2e9)
+
+
+
+[Top GitHub Users By Public Contributions in Montenegro](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/montenegro.md)
+
+![1](https://github.com/lnxfsf/lnxfsf/assets/99252096/a2c1a91a-2a24-45c4-ad3b-16f82a43bd76)
+
+![2](https://github.com/lnxfsf/lnxfsf/assets/99252096/4b9233be-8953-4cd9-a1dd-d41e3845f4b8)
+
+
+
+
+
+
  
