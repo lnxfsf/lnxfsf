@@ -36,13 +36,6 @@
 
 
 
-[Top GitHub Users By Public Contributions in Montenegro](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/montenegro.md)
-
-![1](https://github.com/lnxfsf/lnxfsf/assets/99252096/a2c1a91a-2a24-45c4-ad3b-16f82a43bd76)
-
-![2](https://github.com/lnxfsf/lnxfsf/assets/99252096/4b9233be-8953-4cd9-a1dd-d41e3845f4b8)
-
-
 
 
 
