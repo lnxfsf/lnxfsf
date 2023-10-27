@@ -20,9 +20,7 @@
   
 ![image](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
 
-[Hide Menu on Scroll](https://dev.to/darty/hide-menu-on-scroll-548k)<br>
 [Download music from youtube](https://dev.to/darty/download-music-from-youtube-m8l)<br>
-[LXC, and more servers... port forwarding.. stuff](https://dev.to/darty/lxc-and-more-servers-port-forwarding-stuff-3nn2)<br>
 [Rescue "broken" USB](https://dev.to/darty/rescue-broken-usb-1mgc)<br>
 
 
